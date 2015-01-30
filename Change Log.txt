@@ -1,0 +1,8 @@
+Change Log:
+V1.2
+Updated to 1.7.10 of minecraft
+Added Missing Textures
+v1.1
+Updated to v1.6.4 of minecraft
+v1.0
+Initial release
